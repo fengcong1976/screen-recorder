@@ -3,7 +3,7 @@
 ; 前置：先运行 PyInstaller 生成 dist\影随录屏\
 
 #define MyAppName "影随录屏"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "深圳市创炫互动网络科技有限公司"
 #define MyAppURL "https://www.mrheedu.com"
 #define MyAppExeName "影随录屏.exe"
