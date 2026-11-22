@@ -1,0 +1,11 @@
+{
+  "app": {
+    "slug": "screen-recorder"
+  },
+  "version": {
+    "version_number": "1.0",
+    "min_os_version": "Windows 10",
+    "installer": "installer_output/影随录屏安装包-v1.0.exe",
+    "release_notes": "同步最新版本，修复若干问题。"
+  }
+}

@@ -1,0 +1,8 @@
+PySide6==6.12.0
+psutil==7.2.2
+pywin32==312
+pyautogui==0.9.54
+pyaudiowpatch==0.2.12.9
+pyinstaller==6.22.3
+# cchardet 在 Python 3.10+ 无预编译包，DevicesInfo.py 会自动回退到 cchardet_temp.py，无需安装
+# pyhook3 已被 Shortcut_temp.py（纯 Python 实现）替代，无需安装
