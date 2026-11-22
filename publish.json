@@ -1,7 +1,7 @@
 {
   "app": {
     "slug": "screen-recorder",
-    "description": "本应用已开源：https://gitee.com/FC1976/screen-recorder（GPL-3.0）。",
+    "description": "影随录屏是一款免费的 Windows 屏幕录制工具。核心特色是「随鼠标自动缩放」：录制时在你点击的地方自动推近镜头，让看视频的人一眼看清你操作了哪里，不用任何后期剪辑。支持全屏或框选区域录制、系统声音与麦克风、真实暂停继续、录完直接裁剪，保存按日期自动归档，全程本地运行。 本应用已开源：https://gitee.com/FC1976/screen-recorder（GPL-3.0）。",
     "source_url": "https://gitee.com/FC1976/screen-recorder",
     "license": "GPL-3.0"
   },
