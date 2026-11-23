@@ -1,5 +1,6 @@
 # screen-recorder
 
+> 免费下载与图文教程：<https://www.mrheedu.com/apps/screen-recorder>　·　更多免费软件：[www.mrheedu.com](https://www.mrheedu.com)
 screen-recorder 源码仓库。
 
 ## 运行
